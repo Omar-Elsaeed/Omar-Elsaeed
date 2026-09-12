@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omar-Elsaeed
-- 👀 I’m interested in ... Data science
-- 🌱 I’m currently learning ... Data Analyst
+- 👀 I’m interested in ... Ai Prompts
+- 🌱 I’m currently learning ... Ai Solution Architect 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin website  : https://www.linkedin.com/in/omar-ali93/
 - 😄 Pronouns: Friend 👐
